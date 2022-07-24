@@ -5,6 +5,5 @@
   <img src="https://komarev.com/ghpvc/?username=SendHelpWeCannotCode&style=flat-square&color=blue" alt=""/>
 </div>
 <div id="hellothere" align="center">
-  <h1>Hello there</h1>
   <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="120px"/>
 </div>
